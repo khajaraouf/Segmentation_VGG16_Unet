@@ -10,8 +10,7 @@ In this code, we are going to implement the most widely used image segmentation 
 
 # Architecture
 
-
-
+![vgg16_Unet](https://github.com/khajaraouf/VGG16_Unet/assets/70451209/0264177a-777e-4e78-980e-f3d2852dc6d4)
 
 
 # Reference Papers
